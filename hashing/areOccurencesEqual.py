@@ -12,4 +12,5 @@ class Solution:
 
 sol = Solution()
 s = 'abcabc'
+print(f'input: {s}')
 print(f'answer: {sol.areOccurrencesEqual(s)}')
